@@ -1,0 +1,4 @@
+This page is the collateral content of this main article: How to Use PowerShell to Create a Wiki Catalog Page
+
+This script builds a HTML catalog page based on the tags you put in a list. With this PowerShell script you can quickly create your HTML catalog file with tags of your choice. The file uses a header text file (download here Jump ) and footer text file (HTML) (download here Jump ) to add static content at the beginning and the end of the HTML. If you do not want to use the header and footer file, put the file append commands in comment.
+The script retrieves the initial author and initial publish date of each article
