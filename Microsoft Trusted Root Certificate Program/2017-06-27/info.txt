@@ -1,0 +1,11 @@
+Short URL = http://aka.ms/RootCertDownload
+
+Downloadable version of Microsoft Trusted Root Certificate Program: Participants (as of June 27, 2017) on TNWiki at
+
+https://social.technet.microsoft.com/wiki/contents/articles/38117.microsoft-trusted-root-certificate-program-participants-as-of-june-27-2017.aspx
+
+ 
+
+For the full overview check this page: http://aka.ms/trustcertpartners
+
+This gallery item provides the Excel (XLS) download of the overview, with the full list.
