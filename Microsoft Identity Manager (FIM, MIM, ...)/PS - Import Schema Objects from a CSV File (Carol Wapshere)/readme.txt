@@ -1,4 +1,4 @@
-Source httpsocial.technet.microsoft.comwikicontentsarticles2150.how-to-use-powershell-to-import-schema-objects-from-a-csv-file.aspx.
+Source: http://social.technet.microsoft.com/wiki/contents/articles/2150.how-to-use-powershell-to-import-schema-objects-from-a-csv-file.aspx.
 
 This gallery items is recovered from the old MSDN archive and published again on Gallery to guarantee availability.
 
@@ -6,7 +6,7 @@ This gallery items is recovered from the old MSDN archive and published again on
 Summary
 This script may be used to create Attributes and Bindings in the FIM Portal Schema based on information in a CSV file.
 
-The script comes in two parts
+The script comes in two parts:
 
 Import-SchemaCSV.ps1 is used to generate a changes.xml file, and
 CommitChanges.ps1 is used to import the changes into the FIM Portal.
